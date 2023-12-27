@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Jarrian+and+Welcome+to+my+Profile!" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&random=false&width=940&lines=Hey%2C+I'm+Danu+Kim.+Nice+to+meet+you." alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 
@@ -12,26 +12,24 @@
 
 <div align="center">
   <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
+  <img src="https://profile-counter.glitch.me/DogeLord081/count.svg" />
 </div>
 
 <h2></h2>
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
-<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" width="14px"/> and passionate<img src="./assets/animated-flame-01.gif" width="14px"/> about coding! </h2><br>
+<h2 align="center"> Self-taught <img src="./assets/animated-flame-01.gif" width="14px"/> and passionate <img src="./assets/animated-flame-01.gif" width="14px"/> about coding! </h2><br>
 
--   👨‍💻 I'm Jarrian(godkingjay)👋, a college student, I'm currently pursuing a Computer Science Degree in the Philippines. <br><br><br>
+-   👨‍💻 I'm Danu Kim (DogeLord081👋, a high school student in Rhode Island, United States of America. <br><br><br>
 
--   🌳 I’m currently learning AI and ML using Python! <br><br><br>
+-   🌳 I’m currently learning AI and ML using Python. <br><br><br>
 
--   🐾 I’m looking to network and make friends here! <br><br><br>
+-   🌊 2024 Goals: Turn OneReality into a real startup with PROJECT M.I.T.S.U.H.A. <br><br><br>
 
--   🌊 2023 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br><br><br>
+-   ☕ Interest: Math, Computer Science, Music, and Coding. <br><br><br>
 
--   ☕ Interest: Science, Math, Coffee, and Coding. <br><br><br>
-
--   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Anime, Manga, Web Novel, and Facebook. <br><br>
+-   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Tennis, Flute, Piano, Anime, Manga, and Gaming. <br><br>
 
 <h2></h2>
 
@@ -42,7 +40,7 @@
   <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2>
   <br>
 
-  <a href="https://www.codewars.com/users/godkingjay" target="_blank">
+  <a href="https://www.codewars.com/users/DogeLord081" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
   </a>
 
@@ -54,7 +52,7 @@
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
 
-  <a href="https://leetcode.com/godkingjay/" target="_blank">
+  <a href="https://leetcode.com/DogeLord081/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
   </a>
 
@@ -81,11 +79,11 @@
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogeLord081&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
-  <a href="https://wakatime.com/@godkingjay" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=godkingjay&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
+  <a href="https://wakatime.com/@DogeLord081" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DogeLord081&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
   </a>
   <br>
   
@@ -124,13 +122,13 @@
 
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DogeLord081&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=DogeLord081&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DogeLord081&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godkingjay&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="GodkingJay's Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DogeLord081&custom_title=DogeLord081's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="DogeLord081's Github Activity Graph" width="100%">
 </div>
 
 </br>
@@ -142,44 +140,44 @@
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
-  <a href="https://github.com/godkingjay/selenium-twitter-scraper" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=selenium-twitter-scraper" width="49%" alt="Selenium Twitter Scraper"/>
+  <a href="https://github.com/DogeLord081/selenium-twitter-scraper" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=selenium-twitter-scraper" width="49%" alt="Selenium Twitter Scraper"/>
   </a>
-  <a href="https://github.com/godkingjay/sorsu" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=sorsu" width="49%" alt="SorSUcial"/>
+  <a href="https://github.com/DogeLord081/sorsu" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=sorsu" width="49%" alt="SorSUcial"/>
   </a>
-  <a href="https://github.com/godkingjay/library-management-system-next-react" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=library-management-system-next-react" width="49%" alt="LibMS"/>
+  <a href="https://github.com/DogeLord081/library-management-system-next-react" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=library-management-system-next-react" width="49%" alt="LibMS"/>
   </a>
-  <a href="https://github.com/godkingjay/Reddit-Clone" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=reddit-clone" width="49%" alt="Reddit Clone"/>
+  <a href="https://github.com/DogeLord081/Reddit-Clone" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=reddit-clone" width="49%" alt="Reddit Clone"/>
   </a>
-  <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
+  <a href="https://github.com/DogeLord081/Authentic-Pinoy-Recipes-App" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
   </a>
-  <a href="https://github.com/godkingjay/TypeScript-and-React_Quiz-App" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=TypeScript-and-React_Quiz-App" width="49%" alt="Quizard"/>
+  <a href="https://github.com/DogeLord081/TypeScript-and-React_Quiz-App" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=TypeScript-and-React_Quiz-App" width="49%" alt="Quizard"/>
   </a>
-  <a href="https://github.com/godkingjay/ionic-react-shadcn-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=ionic-react-shadcn-starter" width="49%" alt="Ionic React Shadcn UI Starter"/>
+  <a href="https://github.com/DogeLord081/ionic-react-shadcn-starter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=ionic-react-shadcn-starter" width="49%" alt="Ionic React Shadcn UI Starter"/>
   </a>
-  <a href="https://github.com/godkingjay/turborepo-shadcn-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turborepo-shadcn-starter" width="49%" alt="Turborepo Shadcn UI Starter"/>
+  <a href="https://github.com/DogeLord081/turborepo-shadcn-starter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=turborepo-shadcn-starter" width="49%" alt="Turborepo Shadcn UI Starter"/>
   </a>
-  <a href="https://github.com/godkingjay/turbo-nextui-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turbo-nextui-starter" width="49%" alt="Turborepo NextUI Starter"/>
+  <a href="https://github.com/DogeLord081/turbo-nextui-starter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=turbo-nextui-starter" width="49%" alt="Turborepo NextUI Starter"/>
   </a>
-  <a href="https://github.com/godkingjay/turborepo-next-django-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turborepo-next-django-starter" width="49%" alt="Turborepo Next Django Starter"/>
+  <a href="https://github.com/DogeLord081/turborepo-next-django-starter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=turborepo-next-django-starter" width="49%" alt="Turborepo Next Django Starter"/>
   </a>
-  <a href="https://github.com/godkingjay/django-jwt-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=django-jwt-starter" width="49%" alt="Django JWT Starter"/>
+  <a href="https://github.com/DogeLord081/django-jwt-starter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=django-jwt-starter" width="49%" alt="Django JWT Starter"/>
   </a>
-  <a href="https://github.com/godkingjay/springer-nature-latex-template" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=springer-nature-latex-template" width="49%" alt="Springer Nature Latex Template"/>
+  <a href="https://github.com/DogeLord081/springer-nature-latex-template" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=springer-nature-latex-template" width="49%" alt="Springer Nature Latex Template"/>
   </a>
-  <a href="https://github.com/godkingjay/BSCS-GVC-01-Infographics" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=BSCS-GVC-01-Infographics" width="49%" alt="Infographic Website: Artificial Intelligence - Behind Industries and Sectors"/>
+  <a href="https://github.com/DogeLord081/BSCS-GVC-01-Infographics" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=BSCS-GVC-01-Infographics" width="49%" alt="Infographic Website: Artificial Intelligence - Behind Industries and Sectors"/>
   </a>
 </div>
 
@@ -213,5 +211,5 @@
   </a>
 </div>
 
-<!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
+<!-- <img src="https://github.com/DogeLord081/DogeLord081/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
 <img src="./assets/animated-wave.svg" />
