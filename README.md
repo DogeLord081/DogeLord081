@@ -33,41 +33,6 @@
 
 <h2></h2>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-
-<div align="center">
-  <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2>
-  <br>
-
-  <a href="https://www.codewars.com/users/DogeLord081" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
-  </a>
-
-  <a href="https://www.coursera.org/user/35d06074c7104e91a2ec94c25ea37db4" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
-  </a>
-
-  <a href="https://www.hackerrank.com/godking_jay" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
-
-  <a href="https://leetcode.com/DogeLord081/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
-  </a>
-
-  <a href="https://www.sololearn.com/profile/9696303/" target="_blank">
-    <img src="https://img.shields.io/badge/Sololearn-f20057?style=for-the-badge&logoColor=white"/>
-  </a>
-
-  <a href="https://www.udemy.com/user/jarrian-vince-gloriana-gojar/" target="_blank">
-    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-  </a>
-  
-</div></br>
-
-<h2></h2>
-
 <div align="center">
   <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
 </div>
@@ -86,19 +51,6 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DogeLord081&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
   </a>
   <br>
-  
-  <h2></h2>
-  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,nextjs,redux,java,cpp,py,swift,arduino,firebase,mongodb,mysql,sqlite,postman,netlify,vercel,figma,materialui" alt="skills logos" />
-  <br> 
-  <h2></h2>
-  <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=docker,django,prisma,tensorflow" alt="skills actively learning logos">
-  <br>
-  <!-- <h2></h2>
-  <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,docker,dotnet,electron,express,flask,graphql,heroku,kotlin,kubernetes,linux,lua,pytorch,r,vue" alt="skills planning to learn logos"> -->
-</div>
 
 <h2></h2>
 
@@ -140,44 +92,11 @@
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
-  <a href="https://github.com/DogeLord081/selenium-twitter-scraper" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=selenium-twitter-scraper" width="49%" alt="Selenium Twitter Scraper"/>
+  <a href="https://https://github.com/1neReality/M.I.T.S.U.H.A." target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1neReality&theme=radical&repo=M.I.T.S.U.H.A." width="49%" alt="M.I.T.S.U.H.A."/>
   </a>
-  <a href="https://github.com/DogeLord081/sorsu" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=sorsu" width="49%" alt="SorSUcial"/>
-  </a>
-  <a href="https://github.com/DogeLord081/library-management-system-next-react" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=library-management-system-next-react" width="49%" alt="LibMS"/>
-  </a>
-  <a href="https://github.com/DogeLord081/Reddit-Clone" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=reddit-clone" width="49%" alt="Reddit Clone"/>
-  </a>
-  <a href="https://github.com/DogeLord081/Authentic-Pinoy-Recipes-App" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
-  </a>
-  <a href="https://github.com/DogeLord081/TypeScript-and-React_Quiz-App" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=TypeScript-and-React_Quiz-App" width="49%" alt="Quizard"/>
-  </a>
-  <a href="https://github.com/DogeLord081/ionic-react-shadcn-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=ionic-react-shadcn-starter" width="49%" alt="Ionic React Shadcn UI Starter"/>
-  </a>
-  <a href="https://github.com/DogeLord081/turborepo-shadcn-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=turborepo-shadcn-starter" width="49%" alt="Turborepo Shadcn UI Starter"/>
-  </a>
-  <a href="https://github.com/DogeLord081/turbo-nextui-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=turbo-nextui-starter" width="49%" alt="Turborepo NextUI Starter"/>
-  </a>
-  <a href="https://github.com/DogeLord081/turborepo-next-django-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=turborepo-next-django-starter" width="49%" alt="Turborepo Next Django Starter"/>
-  </a>
-  <a href="https://github.com/DogeLord081/django-jwt-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=django-jwt-starter" width="49%" alt="Django JWT Starter"/>
-  </a>
-  <a href="https://github.com/DogeLord081/springer-nature-latex-template" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=springer-nature-latex-template" width="49%" alt="Springer Nature Latex Template"/>
-  </a>
-  <a href="https://github.com/DogeLord081/BSCS-GVC-01-Infographics" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=BSCS-GVC-01-Infographics" width="49%" alt="Infographic Website: Artificial Intelligence - Behind Industries and Sectors"/>
+  <a href="https://github.com/DogeLord081/vits-simple-api-onereality" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DogeLord081&theme=radical&repo=vits-simple-api-onereality" width="49%" alt="SorSUcial"/>
   </a>
 </div>
 
@@ -190,23 +109,11 @@
 
 <div align="center">
   <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
-  <a href="https://www.facebook.com/jarrian.gojar" target="_blank">
-    <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
+  <a href="https://www.youtube.com/@0neReality" target="_blank">
+    <img src="./assets/logos/neon-youtube.png" width="48px" alt="Facebook"/>
   </a>
   &nbsp
-  <a href="https://twitter.com/godking_jay" target="_blank">
-    <img src="./assets/logos/neon-twitter.png" width="48px" alt="Twitter"/>
-  </a>
-  &nbsp
-  <a href="https://www.instagram.com/jarrian.v.gg/" target="_blank">
-    <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
-  </a>
-  &nbsp
-  <a href="https://www.linkedin.com/in/jarriangojar/" target="_blank">
-    <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
-  </a>
-  &nbsp
-  <a href="https://discord.com/users/385102038087892992" target="_blank">
+  <a href="https://discord.com/users/673272913121509380" target="_blank">
     <img src="./assets/logos/neon-discord.png" width="48px" alt="Discord"/>
   </a>
 </div>
