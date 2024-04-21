@@ -44,11 +44,11 @@
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogeLord081&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=DogeLord081&theme=radical&count_private=true&langs_count=10&card_width=540&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Most used languages">
   <br>
 
-  <a href="https://wakatime.com/@DogeLord081" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DogeLord081&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
+  <a href="https://wakatime.com/@DogeLord" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DogeLord&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
   </a>
   <br>
 
@@ -76,7 +76,7 @@
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=DogeLord081&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=DogeLord081&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DogeLord081&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=DogeLord081&theme=radical&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="49%" alt="stats graph" />
 </div> <br>
 
 <div align="center">
